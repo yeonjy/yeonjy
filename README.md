@@ -18,13 +18,19 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
-![Yeonjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjy&show_icons=true&theme=radical)
+
 
 
 <h3 align="center">🛠️ My Hits 🛠️</h3>
   <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2Fyeonjy&count_bg=%23F7CFF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
+  
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+![Yeonjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjy&show_icons=true&theme=radical)
+  
+</div>
 
 <!--
 **yeonjy/yeonjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
