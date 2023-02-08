@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Yeonjy&fontSize=60&animation=fadeIn)
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -29,6 +30,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjy&count_bg=%2322D1E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjy&langs_count=8)](https://github.com/yeonjy/github-readme-stats)
+
+</div>
+
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align=center>
