@@ -22,14 +22,19 @@
 
 
 <h3 align="center">🛠️ My Hits 🛠️</h3>
-  <p align="center">
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjy&count_bg=%2322D1E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  </p>
+
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjy&count_bg=%2322D1E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-![Yeonjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjy&show_icons=true&theme=radical)
+<div align=center>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjy&show_icons=true&theme=radical)
+
 </div>
 
 <!--
