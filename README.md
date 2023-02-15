@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Yeonjy&fontSize=60&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Yeonjy&fontSize=60&animation=fadeIn) -->
 
 
+# 🎃 LIM YEON JI 🎃
+
+<br/>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -31,13 +34,28 @@
 
 </div>
 
+<br/>
+
+<h3>🔥 공부 중인 분야 🔥</h3>
+•  Web <br/>
+•  Java <br/>
+•  Spring Boot <br/>
+•  JPA <br/>
+• Thymeleaf <br/>
+• Alorithm <br/>
+
+
+
+<br/>
+
+
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjy&langs_count=8)](https://github.com/yeonjy/github-readme-stats)
 
 </div>
 
-  
+<br/>  
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align=center>
   
