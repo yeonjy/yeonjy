@@ -36,18 +36,19 @@
 
 <br/>
 
-<h3>🔥 공부 중인 분야 🔥</h3>
+<h3 align="center">🔥 공부 중인 분야 🔥</h3>
+<div align=center>
 •  Web <br/>
 •  Java <br/>
 •  Spring Boot <br/>
 •  JPA <br/>
 • Thymeleaf <br/>
 • Alorithm <br/>
-
+</div>
 
 
 <br/>
-
+<br/>
 
 <div align=center>
   
