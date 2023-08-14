@@ -8,13 +8,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ubuntu-E95428?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95428?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
@@ -38,10 +39,10 @@
 
 <h3 align="center">🔥 공부 중인 분야 🔥</h3>
 <div align=center>
-•  Web <br/>
 •  Java <br/>
 •  Spring Boot <br/>
 •  JPA <br/>
+•  Docker <br/>
 • Thymeleaf <br/>
 • Alorithm <br/>
 </div>
@@ -58,7 +59,7 @@
 <br/>
 
 <div align=center>
-<h3>🥰Language🥰</h3>
+<h3>🥰 Language 🥰</h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjy&langs_count=8)](https://github.com/yeonjy/github-readme-stats)
 
