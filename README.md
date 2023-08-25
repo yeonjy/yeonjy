@@ -44,6 +44,7 @@
 •  Java <br/>
 •  Spring Boot <br/>
 •  JPA <br/>
+•  Querydsl </br>
 •  Docker <br/>
 • Thymeleaf <br/>
 • Alorithm <br/>
