@@ -1,92 +1,44 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Yeonjy&fontSize=60&animation=fadeIn) -->
 
 
-# 🎃 LIM YEON JI 🎃
+# 👩‍🎤 LIM YEON JI 👩‍🎤
+
+## PROJECT
+
+| 기간 | 프로젝트명 | 서비스 설명 | 기여 |
+| --- | --- | --- | --- |
+| 2024.02 ~ | YOLOG | 여행 내용을 빠른 메모로 기록해두었다가 여행이 끝난 후 간편하게 하나의 글로 작성하는 서비스 | Docker, RabbitMQ, Test Code
+| 2023.12 ~ | Roll The Dice | GPT API를 사용하여 뉴스를 요약하고 토론하는 서비스 | Docker, RabbitMQ, Redis, Crawling, Test Code
+| 2023.07 ~ 2023.08 | CMAP | 지도에 카페를 저장하고 공유하는 서비스 | Docker, Lead Developer
+| 2023.03 ~ 2023.07 | Banana | MZ식 명함 제작 및 공유 서비스 | JPA
+
+## ACTIVITY
+
+- (2024.03 ~ ) UMC 6기 - Server 파트장
+- (2024.01.22 ~ 2023.02.03) 2024 PROMETHEUS AI HACKATHON - 백엔드 파트
+- (2023.03 ~ 2023.08) UMC 4기 - Server 파트장
+- (2023.03 ~ 2023.07) 잇타 3기
+- (2023.01 ~ 2023.03) 라이징 캠프 (컴공선배 주관 부트캠프)
 
 <br/>
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95428?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-  
-</p>
 
+### 📚 Tech Stack 📚
+`Java` `Spring` `JPA` `JUnit5` `Querydsl` `Redis` `RabbitMQ` `Docker` `AWS EC2` `AWS RDS` `AWS S3`
+<br/>
+`Python` `FastAPI`
 
+<br/>
 
-
-<h3 align="center">🛠️ My Hits 🛠️</h3>
-
-
-<div align=center>
-  
+### 🛠️ My Hits 🛠️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjy&count_bg=%2322D1E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-
 <br/>
 
-<h3 align="center">🔥 공부 중인 분야 🔥</h3>
-<div align=center>
-•  Java <br/>
-•  Spring Boot <br/>
-•  JPA <br/>
-•  Querydsl </br>
-•  Docker <br/>
-• Thymeleaf <br/>
-• Alorithm <br/>
-</div>
-
-<br/>
-<div align=center>
-<h3>🏅solved.ac🏅</h3>
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=on_your_mark)](https://solved.ac/on_your_mark)
-  <img src="http://mazandi.herokuapp.com/api?handle=on_your_mark&theme=cold"/>
-</div>
+### 🏅solved.ac🏅
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=on_your_mark)](https://solved.ac/on_your_mark)
 
 <br/>
 <br/>
 
-<div align=center>
-<h3>🥰 Language 🥰</h3>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjy&langs_count=8)](https://github.com/yeonjy/github-readme-stats)
-
-</div>
-
-<br/>  
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjy&show_icons=true&theme=radical)
-
-</div>
-
-<!--
-**yeonjy/yeonjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 My Github Stats 👩‍💻
+[![GitHub Streak](https://streak-stats.demolab.com?user=yeonjy&theme=merko&hide_border=true&border_radius=30&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
