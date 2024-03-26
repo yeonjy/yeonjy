@@ -7,10 +7,10 @@
 
 | 기간 | 프로젝트명 | 서비스 설명 | 기여 |
 | --- | --- | --- | --- |
-| 2024.02 ~ | YOLOG | 여행 내용을 빠른 메모로 기록해두었다가 여행이 끝난 후 간편하게 하나의 글로 작성하는 서비스 | Docker, RabbitMQ, Test Code
-| 2023.12 ~ | Roll The Dice | GPT API를 사용하여 뉴스를 요약하고 토론하는 서비스 | Docker, RabbitMQ, Redis, Crawling, Test Code
-| 2023.07 ~ 2023.08 | CMAP | 지도에 카페를 저장하고 공유하는 서비스 | Docker, Lead Developer
-| 2023.03 ~ 2023.07 | Banana | MZ식 명함 제작 및 공유 서비스 | JPA
+| 2024.02 ~ | [YOLOG](https://github.com/pyro-yolog/yolog-server) | 여행 내용을 빠른 메모로 기록해두었다가 여행이 끝난 후 간편하게 하나의 글로 작성하는 서비스 | Docker, RabbitMQ, Test Code
+| 2023.12 ~ | [Roll The Dice](https://github.com/tukcomCD2024/JinJiHan) | GPT API를 사용하여 뉴스를 요약하고 토론하는 서비스 | Docker, RabbitMQ, Redis, Crawling, Test Code
+| 2023.07 ~ 2023.08 | [CMAP](https://github.com/UMCCMAP) | 지도에 카페를 저장하고 공유하는 서비스 | Docker, Lead Developer
+| 2023.03 ~ 2023.07 | [Banana](https://github.com/ottention/banana_backend) | MZ식 명함 제작 및 공유 서비스 | JPA
 
 ## ACTIVITY
 
