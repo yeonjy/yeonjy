@@ -8,7 +8,7 @@
 | 기간 | 프로젝트명 | 서비스 설명 | 기여 |
 | --- | --- | --- | --- |
 | 2024.02 ~ 현재| [YOLOG](https://github.com/pyro-yolog/yolog-server) | 여행 내용을 빠른 메모로 기록해두었다가 여행이 끝난 후 간편하게 하나의 글로 작성하는 서비스 | Docker, Redis, Test Code
-| 2023.12 ~ 현재| [Scoop](https://github.com/tukcomCD2024/JinJiHan) | GPT API를 사용하여 뉴스를 요약하고 토론하는 서비스 | Docker, RabbitMQ, CI/CD, Crawling, Test Code, Querydsl
+| 2023.12 ~ 현재| [Scoop](https://github.com/tukcomCD2024/JinJiHan) | GPT API를 사용하여 뉴스를 요약하고 토론하는 서비스 | Docker, RabbitMQ, CI/CD, Crawling, Test Code, Querydsl, Spring Batch
 | 2023.07 ~ 2023.08 | [CMAP](https://github.com/UMCCMAP) | 지도에 카페를 저장하고 공유하는 서비스 | Docker, Lead Developer
 | 2023.03 ~ 2023.07 | [Banana](https://github.com/ottention/banana_backend) | MZ식 명함 제작 및 공유 서비스 | JPA
 
@@ -23,7 +23,7 @@
 <br/>
 
 ### 📚 Tech Stack 📚
-`Java` `Spring` `JPA` `JUnit5` `Querydsl` `Redis` `RabbitMQ` `Docker` `AWS EC2` `AWS RDS` `AWS S3`
+`Java` `Spring` `JPA` `JUnit5` `Querydsl` `Spring Batch` `Redis` `RabbitMQ` `Docker` `AWS EC2` `AWS RDS` `AWS S3`
 <br/>
 `Python` `FastAPI`
 
